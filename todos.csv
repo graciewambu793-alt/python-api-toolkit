@@ -1,0 +1,21 @@
+todo_id,user_id,task,is_completed,status
+1,1,delectus aut autem,FALSE,Pending ⏳
+2,1,quis ut nam facilis et officia qui,FALSE,Pending ⏳
+3,1,fugiat veniam minus,FALSE,Pending ⏳
+4,1,et porro tempora,TRUE,Done ✅
+5,1,laboriosam mollitia et enim quasi adipisci quia provident illum,FALSE,Pending ⏳
+6,1,qui ullam ratione quibusdam voluptatem quia omnis,FALSE,Pending ⏳
+7,1,illo expedita consequatur quia in,FALSE,Pending ⏳
+8,1,quo adipisci enim quam ut ab,TRUE,Done ✅
+9,1,molestiae perspiciatis ipsa,FALSE,Pending ⏳
+10,1,illo est ratione doloremque quia maiores aut,TRUE,Done ✅
+11,1,vero rerum temporibus dolor,TRUE,Done ✅
+12,1,ipsa repellendus fugit nisi,TRUE,Done ✅
+13,1,et doloremque nulla,FALSE,Pending ⏳
+14,1,repellendus sunt dolores architecto voluptatum,TRUE,Done ✅
+15,1,ab voluptatum amet voluptas,TRUE,Done ✅
+16,1,accusamus eos facilis sint et aut voluptatem,TRUE,Done ✅
+17,1,quo laboriosam deleniti aut qui,TRUE,Done ✅
+18,1,dolorum est consequatur ea mollitia in culpa,FALSE,Pending ⏳
+19,1,molestiae ipsa aut voluptatibus pariatur dolor nihil,TRUE,Done ✅
+20,1,ullam nobis libero sapiente ad optio sint,TRUE,Done ✅
